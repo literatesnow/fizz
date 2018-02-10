@@ -1,0 +1,8 @@
+0 - refreshing
+1 - server empty
+2 - server full
+3 - server has players
+4 - server not respond
+5 - server password empty
+6 - server password
+7 - server password full

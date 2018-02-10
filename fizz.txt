@@ -1,0 +1,10 @@
+Fizz - Copyright (C) 2001-2002 Chris Cuthbertson
+Web: http://nisda.net
+Email: spawn [at] nisda [dot] net
+IRC: #nzgames irc.enterthegame.com
+
+Source included: Version 1.801, Version 2.010
+Created with: Delphi 6
+Requires: Toolbar2000 (http://www.jrsoftware.org/tb2k.php), Indy (http://www.nevrona.com/Indy/)
+Licence: GPL
+Images created by zeocen (http://zeocen.net/)
